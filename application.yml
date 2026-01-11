@@ -3,4 +3,6 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/Nilanchala2001/config-repo
+          uri: https://github.com/Nilanchala2001/config-repo.git
+          default-label: main
+          clone-on-start: true
