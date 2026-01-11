@@ -1,0 +1,5 @@
+server:
+  port: 8081
+
+message:
+  greeting: Hello User Service - Version 1
